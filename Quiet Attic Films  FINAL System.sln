@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiet Attic Films  FINAL System", "Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System.csproj", "{434764AE-1F84-4085-A78C-0F510FCEFF25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{434764AE-1F84-4085-A78C-0F510FCEFF25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434764AE-1F84-4085-A78C-0F510FCEFF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434764AE-1F84-4085-A78C-0F510FCEFF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434764AE-1F84-4085-A78C-0F510FCEFF25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB59CFB-4228-4872-9889-33ECD8776918}
+	EndGlobalSection
+EndGlobal

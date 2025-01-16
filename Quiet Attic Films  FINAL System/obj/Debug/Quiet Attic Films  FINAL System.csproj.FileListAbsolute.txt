@@ -1,0 +1,50 @@
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet Attic Films  FINAL System.csproj.AssemblyReference.cache
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Admin.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Client_Registration.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Home.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Location.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Main_Login.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Main_SignUp.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Payment_1.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Production.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Production_Admin.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Properties.Resources.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Staff.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Start_1.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.User.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.User_Access.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet Attic Films  FINAL System.csproj.GenerateResource.cache
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet Attic Films  FINAL System.csproj.CoreCompileInputs.cache
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\bin\Debug\Quiet Attic Films  FINAL System.exe.config
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\bin\Debug\Quiet Attic Films  FINAL System.exe
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\bin\Debug\Quiet Attic Films  FINAL System.pdb
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Properties_1.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet Attic Films  FINAL System.exe
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet Attic Films  FINAL System.pdb
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Admin_login.resources
+C:\Users\Ravishka fernando\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Add_newAdmin.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\bin\Debug\Quiet Attic Films  FINAL System.exe.config
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\bin\Debug\Quiet Attic Films  FINAL System.exe
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\bin\Debug\Quiet Attic Films  FINAL System.pdb
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet Attic Films  FINAL System.csproj.AssemblyReference.cache
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Add_newAdmin.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Admin.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Admin_login.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Client_Registration.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Home.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Location.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Main_Login.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Main_SignUp.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Payment_1.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Production.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Production_Admin.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Properties_1.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Properties.Resources.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Staff.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.Start_1.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.User.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet_Attic_Films__FINAL_System.User_Access.resources
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet Attic Films  FINAL System.csproj.GenerateResource.cache
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet Attic Films  FINAL System.csproj.CoreCompileInputs.cache
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet Attic Films  FINAL System.exe
+C:\Users\CNN COMPUTERS\Documents\Assignments\DataBase\Quiet Attic Films  FINAL System\Quiet Attic Films  FINAL System\obj\Debug\Quiet Attic Films  FINAL System.pdb

@@ -1,0 +1,40 @@
+CREATE DATABASE Quiet_Attic_Films_FINAL_DATABASE;
+CREATE TABLE Sing_Up (
+Fast_Name Varchar (50) not null,
+last_Name varchar (50) not null,
+UserName varchar (50) not null,
+Email varchar (100),
+Password1 varchar (50) not null,
+Confirm varchar (50) not null
+);
+
+CREATE TABLE Sing_Up (
+Fast_Name Varchar (50) not null,
+last_Name varchar (50) not null,
+UserName varchar (50) not null,
+Email varchar (100),
+Password1 varchar (50) not null,
+Confirm varchar (50) not null
+);
+
+ /* get the values from text boxes*/
+            string fist_Name =txt_ANfirst.Text;
+            string last_Name = txt_ANlast.Text;
+            string User_Name = txt_ANfirst.Text;
+            string User_Email = txt_AUemail.Text;
+            string Password = txt_APassword.Text;
+            string Confirm = txt_ACpassword.Text;
+
+
+            //update query
+            string updatequery = "Update Sing_Up set Fast_Name ='" + fist_Name + "', last_Name ='" + last_Name + "', UserName = '" + User_Name + "' , Email = '" + User_Email + "' , Password_ = '" + txt_APassword + "' , Confirm_Password = '" + txt_ACpassword + "'";
+
+            // pass to the database after establishing database connection
+            SqlConnection con = new SqlConnection("Data Source=LAPTOP-VP56FVLS\\SQLEXPRESS;Initial Catalog=Quiet_Attic_Films_FINAL;Integrated Security=True");
+            SqlCommand cmd = new SqlCommand(updatequery, con);
+            con.Open();
+            cmd.ExecuteNonQuery();
+
+            // display messagebox
+            MessageBox.Show("Data has been Update successfuly... ");
+            con.Close();
